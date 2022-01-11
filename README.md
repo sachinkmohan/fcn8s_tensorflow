@@ -1,4 +1,7 @@
-## FCN-8s implementation in TensorFlow
+## FCN-8s implementation in TensorFlow(Modified)
+
+### Additional installation required 
+`pip install --trusted-host pypi.python.org moviepy`
 
 ### Contents
 
